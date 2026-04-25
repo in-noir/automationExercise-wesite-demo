@@ -16,7 +16,7 @@ Expected Result:
 - "Logout" option should be visible
 
 
-## TC_02 - Verify error when signing up with existing email
+TC_02 - Verify error when signing up with existing email
 
 Steps:
 1. Open website- https://automationexercise.com/
